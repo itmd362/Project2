@@ -10,3 +10,4 @@ Jingwen Yu - My primary strength: I will finish all assignments on time and able
 Rosa Cabrera: Hey guys so here is a list of some of my strengths: committed, on time, good communication, creative, respectful, and responsible.
 
 Miguel Paloma: My strengths include working with html, css, and some javascript. Also, (usually) getting work done on time, and being helpful.
+
