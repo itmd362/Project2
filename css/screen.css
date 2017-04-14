@@ -10,6 +10,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Base style */
 html {
   font-size: 1.375em; /* 22px/16px */
-  line-height: 1.136em /*25px/22px */
+  line-height: 1.136em; /*25px/22px */
+  text-align: center;
 }
 
