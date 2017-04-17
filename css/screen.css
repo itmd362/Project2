@@ -14,3 +14,30 @@ html {
   text-align: center;
 }
 
+h1, h2, h3, form, ul {
+	text-align: left;
+	padding-left: 1em;
+	padding-top: 1em;
+}
+
+h1 {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+h3 {
+	margin: 0.5em;
+	background-color: #ff0000;
+	padding: 1em;
+}
+
+form {
+	margin: 0.5em;
+	background-color: #d9d9d9;
+	width: 10em;
+	height: 8em;
+}
+
+img {
+	position: absolute;
+}
