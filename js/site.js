@@ -3,7 +3,7 @@ $.noConflict();
    $('#form').on('submit', function(e) {
      
       if ($('#username').val() === 'username' && $('#password').val() === 'password') {
-        window.location.replace('academic/index.html');
+        window.location.replace('main/index.html');
       }
       else if ($('#username').val() === '' || $('#password').val() === '')
       {

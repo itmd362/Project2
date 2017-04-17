@@ -47,7 +47,9 @@ a {
     background-color: #eee;
     color: #222;
 }
-
+img {
+   min-width: 100%;
+ }
 
 
 
