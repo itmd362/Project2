@@ -17,3 +17,47 @@ html {
 #error {
   color: red;
 }
+.navbar {
+    list-style-type: none;
+    min-width: 100%;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #dc002a;
+    text-decoration: none;
+}
+.nav {
+    float: left;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+.nav {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav :hover {
+    background-color: #eee;
+    color: #222;
+}
+img {
+   min-width: 100%;
+ }
+
+h1,h2 {
+  color: black;
+  padding-bottom: 0.6875em;
+}
+
+p {
+  font-size: 0.6875em;
+  padding-top: 1.136em;
+  padding-bottom:1.136em;
+}
