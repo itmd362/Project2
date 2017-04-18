@@ -73,6 +73,21 @@ p {
   padding-top: 0.6875em;
 }
 
+#heading {
+  padding-bottom: 0em;
+   background-color: #dc002a;
+   text-decoration: none;
+   color: #fff;
+   display: block;
+   text-align: center;
+}
+
+#num, #class {
+  padding: 0.6875em;
+}
+#tran {
+  padding-bottom: 0.6875em;
+}
 /*state style */
 @media screen and (min-width: 29.09em) {
   #content {
