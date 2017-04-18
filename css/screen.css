@@ -30,7 +30,7 @@ html {
 .nav {
     float: left;
 }
-a {
+#nav {
   text-decoration: none;
   color: #fff;
 }
