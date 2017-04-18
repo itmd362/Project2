@@ -61,3 +61,16 @@ p {
   padding-top: 1.136em;
   padding-bottom: 1.136em;
 }
+
+/*state style */
+@media screen and (min-width: 29.09em) {
+  #content {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 36.36em) {
+  #content {
+    width: 100%;
+  }
+}
