@@ -32,7 +32,7 @@ html {
   text-decoration: none;
   color: #fff;
 }
-#navbaritem, #navbaritem1, #navbaritem2, #navbaritem3, #navbaritem4, #navbaritem5, #navbaritem6{
+#navbaritem, #navbaritem1, #navbaritem2, #navbaritem3, #navbaritem4, #navbaritem5, #navbaritem6 {
   display: block;
   color: #fff;
   text-align: center;
@@ -71,12 +71,12 @@ p {
 }
 
 .heading {
-  padding-bottom: 0em;
-   background-color: #dc002a;
-   text-decoration: none;
-   color: #fff;
-   display: block;
-   text-align: center;
+  padding-bottom: 0;
+  background-color: #dc002a;
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  text-align: center;
 }
 
 #num, #class {
@@ -121,16 +121,16 @@ p {
   #content {
     width: 100%;
   }
- .nav {
-   float: left;
- }
+  .nav {
+    float: left;
+  }
 }
 
 @media screen and (min-width: 70em) {
   #content {
     width: 100%;
   }
-  #navbaritem, #navbaritem1, #navbaritem2, #navbaritem3, #navbaritem4, #navbaritem5, #navbaritem6{
+  #navbaritem, #navbaritem1, #navbaritem2, #navbaritem3, #navbaritem4, #navbaritem5, #navbaritem6 {
     font-size: 1.375em;
   }
 }
