@@ -85,9 +85,20 @@ p {
 #num, #class {
   padding: 0.6875em;
 }
-#tran {
+
+a {
   padding-bottom: 0.6875em;
 }
+
+#element {
+  padding-top: 0.6785em;
+}
+
+#main {
+  padding-top: 0.6785em;
+  font-size: 2.0625em;
+}
+
 /*state style */
 @media screen and (min-width: 29.09em) {
   #content {
