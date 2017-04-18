@@ -51,6 +51,13 @@ img {
   min-width: 100%;
 }
 
+#logo {
+  display: block;
+  position: relative;
+  height: 50%;
+  width: 50%;
+}
+
 h1, h2 {
   color: black;
   padding-bottom: 0.6875em;
