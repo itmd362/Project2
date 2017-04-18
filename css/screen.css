@@ -35,7 +35,7 @@ html {
   text-decoration: none;
   color: #fff;
 }
-#navbaritem {
+#navbaritem, #navbaritem1, #navbaritem2, #navbaritem3, #navbaritem4, #navbaritem5, #navbaritem6{
   display: block;
   color: #fff;
   text-align: center;
@@ -73,7 +73,7 @@ p {
   padding-top: 0.6875em;
 }
 
-#heading {
+.heading {
   padding-bottom: 0em;
    background-color: #dc002a;
    text-decoration: none;
@@ -86,11 +86,7 @@ p {
   padding: 0.6875em;
 }
 
-a {
-  padding-bottom: 0.6875em;
-}
-
-#element {
+.element {
   padding-top: 0.6785em;
 }
 
